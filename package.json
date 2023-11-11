@@ -1,0 +1,22 @@
+{
+  "name": "api_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaijar2020/API_Testing.git"
+  },
+  "author": "ayon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaijar2020/API_Testing/issues"
+  },
+  "homepage": "https://github.com/Kaijar2020/API_Testing#readme",
+  "devDependencies": {
+    "cypress": "^13.5.0"
+  }
+}
