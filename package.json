@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Kaijar2020/API_Testing#readme",
   "devDependencies": {
-    "cypress": "^13.5.0"
+    "cypress": "^13.5.0",
+    "cypress-xpath": "^2.0.1"
   }
 }
