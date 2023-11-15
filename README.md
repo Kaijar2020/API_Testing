@@ -1,4 +1,4 @@
-# API_Testing
+# API_Testing in Cypress
 API Testing Project.
 API automation with cypress. And generating the mocha html report.
 # How to run project
