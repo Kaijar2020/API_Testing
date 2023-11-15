@@ -2,10 +2,10 @@
 API Testing Project.
 API automation with cypress. And generating the mocha html report.
 # How to run project
-~ git clone https://github.com/Kaijar2020/API_Testing.git
-~ Install node - npm install
-~ Install cypress - npm install cypress --save-dev
-~ Run spec in UI - npx cypress open
+~ git clone https://github.com/Kaijar2020/API_Testing.git <br>
+~ Install node - npm install <br>
+~ Install cypress - npm install cypress --save-dev <br>
+~ Run spec in UI - npx cypress open <br>
 
 # Report 
 
