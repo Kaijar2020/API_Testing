@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node_modules\\.bin\\cypress run",
+    "End2End_API_testing": "npm run test -- --spec cypress\\e2e\\End2End_API_testing.cy.js",
+    "End2End_API_testing1": "cypress run --browser chrome --headed --spec cypress\\e2e\\End2End_API_testing.cy.js",
+    "runtest" : "npx cypress open"
   },
   "repository": {
     "type": "git",
